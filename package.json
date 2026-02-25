@@ -1,0 +1,1 @@
+{"name": "mempool-listener-pro", "version": "1.0.0", "description": "A project for monitoring mempool transactions.", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1"}, "dependencies": {"ethers": "^5.0.0", "winston": "^3.0.0", "dotenv": "^10.0.0"}, "devDependencies": {}}
